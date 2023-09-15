@@ -12,7 +12,7 @@ interface IState {
 }
 
 /**
- * The parent element of the react app.
+ *The parent element of the react app.
  * It renders title, button and Graph react element.
  */
 class App extends Component<{}, IState> {
