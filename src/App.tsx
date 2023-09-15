@@ -29,7 +29,7 @@ class App extends Component<{}, IState> {
 
 
   /**
-   * Render Graph react component with state.data parse as property data
+    * Render Graph react component with state.data parse as property data
    */
   renderGraph() {
     if (this.state.showGraph)
